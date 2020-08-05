@@ -1,7 +1,7 @@
 export const doggos = [
     {
         id: 1,
-        name: 'Jacoby',
+        name: 'Jonesy',
         type: 'Labrador',
         age: 2,
         group: 'Good Doggies',
